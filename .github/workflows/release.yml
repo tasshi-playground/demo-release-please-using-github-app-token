@@ -10,7 +10,7 @@ jobs:
       release_created: ${{ steps.release.outputs.release_created }}
     runs-on: ubuntu-latest
     steps:
-      - uses: cybozu/octoken-action@c72648d598d172cb5785587f6243bbd09774d034 # v1
+      - uses: cybozu/octoken-action@4a9fee096e6a1970d4cadfb08b231048ca851c85 # v1
         id: create-iat
         with:
           github_app_id: ${{ secrets.RELEASE_GITHUB_APP_ID}}
