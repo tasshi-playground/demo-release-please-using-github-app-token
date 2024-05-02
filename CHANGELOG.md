@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.1](https://github.com/tasshi-playground/demo-release-please-using-github-app-token/compare/demo-release-please-using-github-app-token-v1.1.0...demo-release-please-using-github-app-token-v1.1.1) (2024-05-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* This change will destroy everything!
+
+### Bug Fixes
+
+* Update index.js ([b7afe90](https://github.com/tasshi-playground/demo-release-please-using-github-app-token/commit/b7afe90bbf4ace6662bcf8b5439de5952053d8b2))
+
 ## [1.1.0](https://github.com/tasshi-playground/demo-release-please-using-github-app-token/compare/demo-release-please-using-github-app-token-v1.0.0...demo-release-please-using-github-app-token-v1.1.0) (2023-12-05)
 
 
